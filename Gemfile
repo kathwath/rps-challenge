@@ -12,6 +12,6 @@ group :test do
   gem 'coveralls', require: false
   gem 'capybara'
   gem 'byebug'
-  gem 'selenium-webdriver', '3.0.0.beta4.0'
+  gem 'selenium-webdriver', '3.141.0'
   gem 'rspec-sinatra'
 end
